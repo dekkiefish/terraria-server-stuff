@@ -1,0 +1,8 @@
+world=/home/pi/Worlds/gaming_smp_6_sored_edition.wld
+maxplayers=8
+port=7777
+worldpath=/home/pi/Worlds/
+language=en-US
+priority=1
+password=gaming
+motd=[a:EYE_ON_YOU]
